@@ -1,7 +1,7 @@
  
 
 #sidebar-wrapper {
-  min-height: 200vh;
+  min-height: 100vh;
 
 }
 
@@ -57,5 +57,5 @@
   margin-top:250px;
 }
 .item{
-  text-align: center;
+  text-align: left;
 }

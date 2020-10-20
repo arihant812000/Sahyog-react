@@ -10,13 +10,14 @@ const Navbar = props => {
   {/* <div class ="container"> */}
 
   <i className={props.icon} id="icon" onClick={props.onclick}></i>
+  <img src="images/logo.png" style={{height:"60px"}}></img>
   <h2 className="navbar-brand " id="c-name">SAHYOG</h2>
 
     
 
     
       <ul className="navbar-nav ml-auto mr-5 "> 
-      <button className="btn btn-primary"  id="button">ADMIN</button>
+      <div  id="google_translate_element" >  </div>
       </ul>
       {/* </div> */}
   </nav>
