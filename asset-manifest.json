@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sahyog-react/static/css/main.79c18a6d.chunk.css",
+    "main.js": "/Sahyog-react/static/js/main.9e637faa.chunk.js",
+    "main.js.map": "/Sahyog-react/static/js/main.9e637faa.chunk.js.map",
+    "runtime-main.js": "/Sahyog-react/static/js/runtime-main.bf942b59.js",
+    "runtime-main.js.map": "/Sahyog-react/static/js/runtime-main.bf942b59.js.map",
+    "static/js/2.136bb08f.chunk.js": "/Sahyog-react/static/js/2.136bb08f.chunk.js",
+    "static/js/2.136bb08f.chunk.js.map": "/Sahyog-react/static/js/2.136bb08f.chunk.js.map",
+    "index.html": "/Sahyog-react/index.html",
+    "precache-manifest.ce8eeef7258b75d77c003eda6b1d8210.js": "/Sahyog-react/precache-manifest.ce8eeef7258b75d77c003eda6b1d8210.js",
+    "service-worker.js": "/Sahyog-react/service-worker.js",
+    "static/css/main.79c18a6d.chunk.css.map": "/Sahyog-react/static/css/main.79c18a6d.chunk.css.map",
+    "static/js/2.136bb08f.chunk.js.LICENSE.txt": "/Sahyog-react/static/js/2.136bb08f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf942b59.js",
+    "static/js/2.136bb08f.chunk.js",
+    "static/css/main.79c18a6d.chunk.css",
+    "static/js/main.9e637faa.chunk.js"
+  ]
+}
