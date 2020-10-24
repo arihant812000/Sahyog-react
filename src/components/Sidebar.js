@@ -12,7 +12,7 @@ const Sidebar = () => {
         // anchor element's props
         return {
           style: {
-            color: isCurrent ? "blue" : "red"
+            color: isCurrent ? "darkBlue" : "black"
           }
         };
       }}
