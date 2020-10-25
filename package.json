@@ -1,5 +1,4 @@
 {
-
   "name": "sahyog",
   "version": "0.1.0",
   "private": true,
@@ -14,10 +13,10 @@
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3"
   },
-  "homepage":"http://arihantjain812000.github.io/Sahyog-react",
+  "homepage": "http://arihantjain812000.github.io/Sahyog-react",
   "scripts": {
-  "predeploy": "npm run build",
-	"deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
