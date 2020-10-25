@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sahyog-react/precache-manifest.ce8eeef7258b75d77c003eda6b1d8210.js"
+  "/Sahyog-react/precache-manifest.be84be222fd29815e07fe9249c3f8220.js"
 );
 
 self.addEventListener('message', (event) => {
